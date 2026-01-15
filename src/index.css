@@ -7,39 +7,10 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #root {
   width: 100%;
   min-height: 100vh;
 }
-```
-
-4. Click **"Commit new file"**
-
----
-
-#### **File 7: src/App.jsx** (The big one!)
-
-1. Click **"Add file"** → **"Create new file"**
-2. Name it: `src/App.jsx`
-3. **This is the longest file** - I'll give it to you in the next message
-4. Just click the `App.jsx` file I shared earlier (the blue link from before)
-5. Copy ALL the code from that file
-6. Paste it into GitHub
-7. Click **"Commit new file"**
-
----
-
-### **Step 4: Check your work**
-
-Your GitHub repo should now show:
-```
-├── package.json
-├── vite.config.js
-├── vercel.json
-├── index.html
-└── src/
-    ├── App.jsx
-    ├── main.jsx
-    └── index.css
